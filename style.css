@@ -1,14 +1,26 @@
-.viss {
-    width: 130px;
-    height: 100px;
-    margin: 5px;
-    background-color: black;
+#googlelogo {
+    margin-left: auto;
+    margin-right: auto;
+    background-color:black;
+    margin-top: 200px;
+}
+
+#googleSearch {
+    display: inline-block;
+    margin-left: 750px;
+    margin-right: auto;
+}
+
+#feelinglucky {
     display: inline-block;
 }
-.google {
-    position: absolute;
-    top: 80px;
-    right: 0;
-    width: 200px;
-    height: 100px;
+
+img, #searchbox {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    margin-top: 200px;
 }
