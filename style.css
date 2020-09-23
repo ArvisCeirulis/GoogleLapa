@@ -1,26 +1,40 @@
-#googlelogo {
-    margin-left: auto;
-    margin-right: auto;
-    background-color:black;
-    margin-top: 200px;
+.links {
+    width: 2%;
+    height: auto;
+    margin-left: 1785px;
 }
 
-#googleSearch {
-    display: inline-block;
+.logo {
+    align-content: center;
+    text-align: center;
+    margin-top: 200px;
+    width: 15%;
+    height: auto;
     margin-left: 750px;
-    margin-right: auto;
 }
 
-#feelinglucky {
-    display: inline-block;
+.searchsize {
+    align-content: center;
+    text-align: center;
+    width: 15%;
+    height: auto;
+    margin-left: 700px;
 }
 
-img, #searchbox {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.search {
+    align-content: left;
+    margin-left: 761px;
+    margin-top: 5px;
 }
 
-img {
-    margin-top: 200px;
+.lucky {
+    align-content: left;
+    margin-left: 2px;
+    margin-top: 5px;
+}
+
+.font {
+    font-size: 13px;
+    margin-left: 745px;
+    margin-top: 10px;
 }
