@@ -17,5 +17,38 @@
 .bar {
     position:relative
     color: lightgray;
-    margin-left: 180px;
+    margin-left: 160px;
+}
+
+.rezultati {
+    margin-left: 160px;
+    color: gray;
+}
+
+.majaslapa {
+    font-size: large;
+    margin-left: 160px;
+    size: 100px;
+
+}
+
+.majaslapa2 {
+    color: darkslategray;
+    font-size: small;
+    margin-left: 160px;
+    size: 100px;
+}
+
+.saraksti {
+    margin-top: 50px;
+    position: relative;
+    font-size: large;
+    margin-left: 190px;
+}
+
+.saraksts2 {
+    margin-top: -210px;
+    position: relative;
+    font-size: large;
+    margin-left: 280px;
 }
