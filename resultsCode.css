@@ -1,0 +1,15 @@
+.googlelogo {
+    position: relative;
+    top: 15px;
+}
+
+.searchbar {
+    position: relative;
+    top: -20px;
+    left: 30px;
+    width: 700px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px lightgray solid;
+    padding: 5px 5px 5px 25px;
+}
