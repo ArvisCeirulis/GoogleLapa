@@ -13,3 +13,9 @@
     border: 1px lightgray solid;
     padding: 5px 5px 5px 25px;
 }
+
+.bar {
+    position:relative
+    color: lightgray;
+    margin-left: 180px;
+}
